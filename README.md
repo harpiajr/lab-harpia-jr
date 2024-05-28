@@ -31,6 +31,6 @@
 
 </br>
 
-<div>
-     <img align="center" width="40px" src="docs/Ativo%209%404x.png"></a>
+<div align="center">
+     <img align="center" width="256px" src="docs/Ativo%209%404x.png"></a>
 </div>
