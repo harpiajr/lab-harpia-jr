@@ -64,5 +64,5 @@
 - [Gerador automático de Readme para GitHub](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 <div align="center">
-     <img align="center" width="256px" src="docs/Ativo%209%404x.png"></a>
+     <img align="center" width="256px" src="../docs/Ativo%209%404x.png"></a>
 </div>
