@@ -11,9 +11,9 @@
 <ol>
 <li>Faça um Fork deste repositório;
 </li>
-<li>Clone localmente git clone https://github.com/SEUUSERNAME/dio-lab-open-source.git;
+<li>Clone localmente git clone https://github.com/SEUUSERNAME/lab-harpia-jr.git;
 </li>
-<li>Adicione o remote upstream para manter seu repositório local atualizado: git remote add upstream https://github.com/digitalinnovationone/dio-lab-open-source.git. Utilize o comando git pull upstream main para baixar e mesclar as alterações no seu repositório local com base na branch main deste repositório original de onde você fez o fork, ou git fetch upstream main para baixar sem mesclar. Veja mais em: "Primeiros Passos com Git e GitHub";
+<li>Adicione o remote upstream para manter seu repositório local atualizado: git remote add upstream https://github.com/digitalinnovationone/lab-harpia-jr.git. Utilize o comando git pull upstream main para baixar e mesclar as alterações no seu repositório local com base na branch main deste repositório original de onde você fez o fork, ou git fetch upstream main para baixar sem mesclar. Veja mais em: "Primeiros Passos com Git e GitHub";
 </li>
 <li>Crie uma nova branch e nomeie como feat/community/seunomedeusuario. Exemplo: feat/community/falvojr;
 </li>
@@ -27,7 +27,7 @@
 </li>
 <li>Envie as alterações para o seu repositório remoto git push origin feat/community/seunomedeusuario;
 </li>
-<li>Crie um Pull Request.</li>
+<li>Crie um Pull Request. Você pode realizar ele manualmente por este repositório.</li>
 
 </br>
 
