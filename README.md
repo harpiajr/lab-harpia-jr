@@ -31,8 +31,6 @@
 
 </br>
 
-<h1>
-    <a href="">
+<div>
      <img align="center" width="40px" src="docs/Ativo%209%404x.png"></a>
-    <span> Contribuindo em um Projeto Open Source no GitHub</span>
-</h1>
+</div>
