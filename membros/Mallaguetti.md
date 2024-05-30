@@ -1,7 +1,7 @@
 # WHOAMI
 
 - 👋 Hi, I’m Gabriel Mallaguetti Rodrigues de Souza
-- 👀 I’m interested in programming, graphical design and hardware
+- 👀 I’m interested in programming, graphic design and hardware
 - 🌱 I’m currently learning Java and Typescript
 
 ## 📫 Where you can reach me?
