@@ -15,17 +15,17 @@
 </li>
 <li>Adicione o remote upstream para manter seu repositório local atualizado: git remote add upstream https://github.com/harpiajr/lab-harpia-jr.git. Utilize o comando git pull upstream main para baixar e mesclar as alterações no seu repositório local com base na branch main deste repositório original de onde você fez o fork, ou git fetch upstream main para baixar sem mesclar. Veja mais em: "Primeiros Passos com Git e GitHub";
 </li>
-<li>Crie uma nova branch e nomeie como feat/membros/seunomedeusuario. Exemplo: feat/community/falvojr;
+<li>Crie uma nova branch e nomeie como feat/membros/seunomedeusuario. Exemplo: feat/membros/falvojr;
 </li>
 <li>Dentro da pasta "membros", crie um arquivo em Markdown (extensão .md`) e nomeie com o mesmo nome do seu usuário no GitHub. Exemplo: falvojr.md;
 </li>
-<li>Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta community e adicionar alguns dos utilitários presentes na pasta "utils". Observação: Use os outros exemplos como inspiração e não cópia;
+<li>Desenvolva o seu perfil. Para isso, você pode ver exemplos na pasta membros e adicionar alguns dos utilitários presentes na pasta "utils". Observação: Use os outros exemplos como inspiração e não cópia;
 </li>
-<li>Adicione suas alterações à "staging area" com o comando git add community/seunomedeusuario.md;
+<li>Adicione suas alterações à "staging area" com o comando git add membros/seunomedeusuario.md;
 </li>
 <li>Crie um commit e adicione a mensagem indicando a adição do seu perfil git commit -m"feat: add seunomedeusuario profile";
 </li>
-<li>Envie as alterações para o seu repositório remoto git push origin feat/community/seunomedeusuario;
+<li>Envie as alterações para o seu repositório remoto git push origin feat/membros/seunomedeusuario;
 </li>
 <li>Crie um Pull Request. Você pode realizar ele manualmente por este repositório.</li>
 
