@@ -15,7 +15,7 @@
 </li>
 <li>Adicione o remote upstream para manter seu repositório local atualizado: git remote add upstream https://github.com/harpiajr/lab-harpia-jr.git. Utilize o comando git pull upstream main para baixar e mesclar as alterações no seu repositório local com base na branch main deste repositório original de onde você fez o fork, ou git fetch upstream main para baixar sem mesclar. Veja mais em: "Primeiros Passos com Git e GitHub";
 </li>
-<li>Crie uma nova branch e nomeie como feat/membros/seunomedeusuario. Exemplo: feat/membros/falvojr;
+<li>Crie uma nova branch e nomeie como git checkout -b feat/membros/seunomedeusuario. Exemplo: git checkout -b feat/membros/falvojr;
 </li>
 <li>Dentro da pasta "membros", crie um arquivo em Markdown (extensão .md`) e nomeie com o mesmo nome do seu usuário no GitHub. Exemplo: falvojr.md;
 </li>
